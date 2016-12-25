@@ -1,0 +1,6 @@
+.rect {
+    border: 1px solid lightgray;
+    padding: 10px 5px;
+    margin: 10px 5px;
+    color: darkgray;
+}
